@@ -2,3 +2,6 @@ numpy
 matplotlib
 sklearn
 jupyterlab
+jupyter_client
+nbconvert
+ipykernel
